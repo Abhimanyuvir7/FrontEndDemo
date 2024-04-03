@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_HtmlIntro", "1_HtmlIntro\1_HtmlIntro.csproj", "{996109D3-1788-4556-A1FC-10344E9A0F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_CSSDemos", "2_CSSDemos\2_CSSDemos.csproj", "{F5E818FE-710E-444D-9438-856D98E693E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_JavaScriptDemos", "3_JavaScriptDemos\3_JavaScriptDemos.csproj", "{6F6D6CF9-B57F-4577-B436-B768D5F3DEE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_JQueryDemo", "4_JQueryDemo\4_JQueryDemo.csproj", "{D9A90944-A5D5-4F42-BEB1-447624FE54ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{B80C1177-ACB4-40AF-A56F-E4A4E34C4206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_BootstrapDemos", "5_BootstrapDemos\5_BootstrapDemos.csproj", "{5F481554-5E03-439C-A6D1-822E84147550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_NugetPackagesInstallation", "6_NugetPackagesInstallation\6_NugetPackagesInstallation.csproj", "{4505D518-3706-4647-AF10-EEE2291561B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{996109D3-1788-4556-A1FC-10344E9A0F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996109D3-1788-4556-A1FC-10344E9A0F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996109D3-1788-4556-A1FC-10344E9A0F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996109D3-1788-4556-A1FC-10344E9A0F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E818FE-710E-444D-9438-856D98E693E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E818FE-710E-444D-9438-856D98E693E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E818FE-710E-444D-9438-856D98E693E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E818FE-710E-444D-9438-856D98E693E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6D6CF9-B57F-4577-B436-B768D5F3DEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6D6CF9-B57F-4577-B436-B768D5F3DEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6D6CF9-B57F-4577-B436-B768D5F3DEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6D6CF9-B57F-4577-B436-B768D5F3DEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A90944-A5D5-4F42-BEB1-447624FE54ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A90944-A5D5-4F42-BEB1-447624FE54ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A90944-A5D5-4F42-BEB1-447624FE54ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A90944-A5D5-4F42-BEB1-447624FE54ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80C1177-ACB4-40AF-A56F-E4A4E34C4206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80C1177-ACB4-40AF-A56F-E4A4E34C4206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80C1177-ACB4-40AF-A56F-E4A4E34C4206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80C1177-ACB4-40AF-A56F-E4A4E34C4206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F481554-5E03-439C-A6D1-822E84147550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F481554-5E03-439C-A6D1-822E84147550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F481554-5E03-439C-A6D1-822E84147550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F481554-5E03-439C-A6D1-822E84147550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4505D518-3706-4647-AF10-EEE2291561B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4505D518-3706-4647-AF10-EEE2291561B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4505D518-3706-4647-AF10-EEE2291561B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4505D518-3706-4647-AF10-EEE2291561B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C467FAE6-BA0E-4489-A712-476F52627414}
+	EndGlobalSection
+EndGlobal
